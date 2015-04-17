@@ -1,0 +1,15 @@
+*.c~
+*.h~
+ByteOrder/.git
+ByteOrder/.git/branches
+ByteOrder/.git/config
+ByteOrder/.git/description
+ByteOrder/.git/HEAD
+ByteOrder/.git/hooks
+ByteOrder/.git/index
+ByteOrder/.git/info
+ByteOrder/.git/logs
+ByteOrder/.git/objects
+ByteOrder/.git/packed-refs
+ByteOrder/.git/refs
+src/Test
